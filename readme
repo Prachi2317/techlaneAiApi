@@ -1,0 +1,9 @@
+ The server listens on port 3000, and when a request is made, it reads the JSON data from the file and sends it as the response with the appropriate headers.
+
+
+ remember to install :
+ npm install http fs
+
+run the command node index.js it will read the data from staticData.js and in return api will return the json data in the api response
+
+localhost:3000/api/get return the data in the response
