@@ -5,5 +5,6 @@
  npm install http fs
 
 run the command node index.js it will read the data from staticData.js and in return api will return the json data in the api response
+// setup project you need to install (npm install)... It will install all the packages that is in package.json
 
 localhost:3000/api/get return the data in the response
